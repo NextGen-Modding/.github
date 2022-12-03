@@ -11,7 +11,7 @@ A powerful and all-in-one workshop tool that takes your game's community-made co
 A tool that allows you to create specific custom content such as maps, 3D models, and textures quicker and easier than a game engine. It simplifies the process!
 
 ### [Pivot](https://github.com/NextGen-Modding/pivot)
-A hub that may be utilized by any game developer or community! This tool will interface our Foundry and CreateIt tools along with allow you to install mods similar to mod launchers!
+A hub that may be utilized by any game developer or community! This tool will interface our [Foundry](https://github.com/NextGen-Modding/foundry) and [CreateIt](https://github.com/NextGen-Modding/createit) tools along with allow you to install mods and custom content similar to mod launchers!
 
 **Note** - These tools are completely open source!
 
