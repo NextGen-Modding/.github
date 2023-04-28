@@ -7,7 +7,7 @@ We are in development and accepting any contributions from the open source commu
 ### [Foundry](https://github.com/NextGen-Modding/foundry)
 A powerful and all-in-one workshop library and tool that takes your game's community-made content to the next level! This tool will integrate everything you need to support singleplayer and multiplayer modding.
 
-### [CreateIt](https://github.com/NextGen-Modding/createit)
+### [CrateIt](https://github.com/NextGen-Modding/createit)
 A tool that allows you to create specific custom content such as maps, 3D models, and textures quicker and easier than a game engine. It simplifies the process.
 
 ### [Pivot](https://github.com/NextGen-Modding/pivot)
