@@ -1,26 +1,19 @@
 # NextGen Modding
-NextGen Modding serves as a collection of open-source modding tools that you may integrate into your games! Our tools enhance the modding experience for both singleplayer and multiplayer games.
+NextGen Modding serves as a collection of open source game and modding tools. Our game development tools will be built for [Godot](http://godotengine.org/), an open source game engine. Our goal is to allow game developers to easily integrate these tools into their game(s).
 
-We are in development and accepting any contributions from the open source community! Our goal is to make a version of each tool for the most popular game engines such as [Unity](https://unity.com/), [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5), and [Godot Engine](http://godotengine.org/)!
+We are still under heavy development!
 
 ## Tools
-### [Foundry](https://github.com/NextGen-Modding/foundry)
-A powerful and all-in-one workshop library and tool that takes your game's community-made content to the next level! This tool will integrate everything you need to support singleplayer and multiplayer modding.
+### [Server Dot](https://github.com/nextgen-modding/server-dot)
+A future all-in-one dedicated server tool for [Godot](http://godotengine.org/).
 
-### [CrateIt](https://github.com/NextGen-Modding/createit)
-A tool that allows you to create specific custom content such as maps, 3D models, and textures quicker and easier than a game engine. It simplifies the process.
+### [Foundry](https://github.com/NextGen-Modding/foundry)
+A future powerful workshop library and tool that allows players and server owners to download or upload content for their games.
 
 ### [Pivot](https://github.com/NextGen-Modding/pivot)
-A hub that may be utilized by any game developer or community! This tool will interface our [Foundry](https://github.com/NextGen-Modding/foundry) and [CreateIt](https://github.com/NextGen-Modding/createit) tools and libraries along with allow you to install mods and custom content similar to mod launchers!
+A future mod launcher tool which will allow users to automatically download and install mods for a variety of games.
 
 **Note** - These tools are completely open source and their names are subject to change for now.
 
 ## Contact
-Feel free to post a thread under discussions if you want to contact us! Otherwise, you can join [The Modding Community](https://moddingcommunity.com)'s Discord server [here](https://discord.moddingcommunity.com/)!
-
-## Community Contributors
-* [The Modding Community](https://moddingcommunity.com/)
-
-## Individual Contributors
-* [Christian Deacon](https://github.com/gamemann)
-* [Jaryt](https://github.com/jaryt)
+If you want to contact us regarding NextGen Modding, we recommend either making a forum post [here](https://moddingcommunity.com/forum/272-nextgen-modding/) or joining our Discord server [here](https://discord.moddingcommunity.com/).
